@@ -1,9 +1,13 @@
 img{
     width:90%
 }
+body{
+    text-align: center;
+}
 
 td{
-    text-align:center
+    text-align:center;
+    width:50vw;
 }
 
 div{
